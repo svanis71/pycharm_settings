@@ -2,4 +2,7 @@
   <component name="GeneralSettings">
     <option name="reopenLastProject" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+  </component>
 </application>
