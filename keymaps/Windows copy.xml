@@ -1,8 +1,14 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt p" />
   </action>
+  <action id="ToggleBookmark7" />
 </keymap>
