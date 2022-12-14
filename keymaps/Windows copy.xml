@@ -23,5 +23,9 @@
   <action id="MainMenu">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl #10000a7" />
+  </action>
   <action id="ToggleBookmark7" />
 </keymap>
