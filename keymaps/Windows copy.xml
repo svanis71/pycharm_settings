@@ -17,6 +17,9 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl plus" />
   </action>
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt c" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt p" />
   </action>
