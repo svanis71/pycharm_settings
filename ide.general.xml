@@ -17,6 +17,7 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="git" value="true" />
+        <entry key="pythonInterpreterWidget" value="false" />
       </map>
     </option>
   </component>
