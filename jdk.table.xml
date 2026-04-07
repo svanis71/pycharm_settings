@@ -1393,5 +1393,31 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.14 (DeviceTimer)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.3" />
+      <homePath value="$USER_HOME$/Telia Cloud/Kod/DeviceTimer/.venv/Scripts/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Python/pythoncore-3.14-64/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Python/pythoncore-3.14-64/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Python/pythoncore-3.14-64" type="simple" />
+            <root url="file://$USER_HOME$/Telia Cloud/Kod/DeviceTimer/.venv" type="simple" />
+            <root url="file://$USER_HOME$/Telia Cloud/Kod/DeviceTimer/.venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2026.1/python_stubs/1542176252" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Telia Cloud/Kod/DeviceTimer" SDK_UUID="c5f8a421-9539-4907-ad2f-7fce765c10de">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
